@@ -1,16 +1,22 @@
 _repo: Stories-of-Enchantment-or-The-Ghost-Flower_50931
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Richards, Harriet Roosevelt
     deathdate: 1932
     gutenberg_agent_id: '8437'
     url: http://www.gutenberg.org/2009/agents/8437
+covers:
+- cover_type: archival
+  image_path: 50931-h/images/cover.jpg
 creator:
   author:
     agent_name: Myers, Jane Pentzer
     gutenberg_agent_id: '46147'
     url: http://www.gutenberg.org/2009/agents/46147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50931#Stories-of-Enchantment-or-The-Ghost-Flower
 gutenberg_issued: '2016-01-15'
 gutenberg_type: Text
 identifiers:
